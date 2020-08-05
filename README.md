@@ -1,3 +1,3 @@
-# CNN-Presentation
+# AI-Talent-Programme
 
-This repo contains cnn course note by ai talent programme.
+This repo contains course note by ai talent programme.
